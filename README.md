@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, here is my PORTFOLIO</h1>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/cf38433a-51f0-4277-a6a8-1d33c0fe90f8" width="400" alt="Quality Assurance Illustration">
+   <img src="https://github.com/user-attachments/assets/fa7df562-2f8d-42e5-9fa7-c26b519248f6" width="400" alt="Quality Assurance Illustration">
    <br>
    <em><strong>🔎 My goal is not just to find a bug, but to ensure a high-quality product for the end user. 🔍</strong></em>
 </p>
+
 <p align="center">
   <a href="#about"><kbd>👇About me</kbd></a> 
   <a href="#courses"><kbd>👇Courses, training</kbd></a> 
