@@ -10,7 +10,8 @@
 </a>
 </p>
 
-## About me
+<a name="about"></a>
+## 👤 About me
 #### Hi! I'm a QA Engineer. 🚀
 
 I specialize in quality assurance **Web, Mobile и API**. My approach combines attention to detail in manual testing with a focus on optimization through automation.
@@ -21,12 +22,14 @@ I specialize in quality assurance **Web, Mobile и API**. My approach combines a
 *   **With deep involvement** analyze API performance and network traffic, identifying errors at the data logic level.
 *   **I'm diving headfirst** into the architecture of each application, because for me it is a complex mechanism that requires flawless configuration.
 ---
-## Courses, training 🚀🚀🚀
+<a name="courses"></a>
+## 🎓 Courses, training
 * [Yandex Practicum](https://practicum.yandex.ru/) qa-engineer-full-stack
 * Manual testing 
 * Automated testing in Java
 * [**Certificate**](https://drive.google.com/drive/folders/1JAylXCi1cXzg8dDsxxV1LlXGHI2iGaa7?usp=sharing)
 ---  
+<a name="tools"></a>
 ## 🛠 Tools and Technologies  
 #### 🔍 Manual Testing
 * **🌐 DevTools** — built-in browser tools for debugging code and analyzing network requests.
@@ -49,7 +52,8 @@ I specialize in quality assurance **Web, Mobile и API**. My approach combines a
 * **⚙️ Jenkins** — a CI/CD server for automated test execution.
 * **🌿 Git** — a version control system for tracking changes in code.
 ---  
-## 🛠️🛠️Projects  
+<a name="projects"></a>
+## 📂 Projects
 #### ✅ Manual testing  
 * [**Mesto**](https://code.s3.yandex.net/qa/files/mesto/index.html).   
 Interactive photo sharing webpage: add, like, and delete photos.
@@ -92,8 +96,9 @@ Testing the Yandex.Samokat training service API (courier creation, login, order 
   * [**Diplom_2**](https://github.com/NovoselovPavel79/Diplom_2?tab=readme-ov-file#diplom_2)
 * [**Automated tests for UI Stellar Burgers web app**](https://stellarburgers.education-services.ru/)
   * [**Diplom_3**](https://github.com/NovoselovPavel79/Diplom_3)
-
-## 📫 How to contact me
+---
+<a name="contact"></a>
+## 📫 How to contact me  
 *   **Telegram:** [@Palych1979mgn]
 *   **VKontakte:** [https://vk.com/pavel_informatika]
 *   **Email:** [pavel_informatik@vk.com]
