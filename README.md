@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, here is my PORTFOLIO</h1>
-
-![картинка](https://github.com/user-attachments/assets/374b7fc0-0a97-4fba-9ad6-349320592f59)  
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/cf38433a-51f0-4277-a6a8-1d33c0fe90f8" width="400" alt="Quality Assurance Illustration">
+   <br>
+   <em><strong>🔎 My goal is not just to find a bug, but to ensure a high-quality product for the end user. 🔍</strong></em>
+</p>
 <p align="center">
   <a href="#about"><kbd>👇About me</kbd></a> 
   <a href="#courses"><kbd>👇Courses, training</kbd></a> 
@@ -27,7 +30,7 @@ I specialize in quality assurance **Web, Mobile и API**. My approach combines a
 * [Yandex Practicum](https://practicum.yandex.ru/) qa-engineer-full-stack
 * Manual testing 
 * Automated testing in Java
-* [**Certificate**](https://drive.google.com/drive/folders/1JAylXCi1cXzg8dDsxxV1LlXGHI2iGaa7?usp=sharing)
+* [**Certificates**](https://drive.google.com/drive/folders/1JAylXCi1cXzg8dDsxxV1LlXGHI2iGaa7?usp=sharing)
 ---  
 <a name="tools"></a>
 ## 🛠 Tools and Technologies  
@@ -99,12 +102,7 @@ Testing the Yandex.Samokat training service API (courier creation, login, order 
 ---
 <a name="contact"></a>
 ## 📫 How to contact me  
-*   **Telegram:** [@Palych1979mgn]
-*   **VKontakte:** [https://vk.com/pavel_informatika]
-*   **Email:** [pavel_informatik@vk.com]
+*   **Telegram:** @Palych1979mgn
+*   **VKontakte:** [Pavel Informatika](https://vk.com/pavel_informatika)
+*   **Email:** [pavel_informatik@vk.com](pavel_informatik@vk.com)
 ---
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/cf38433a-51f0-4277-a6a8-1d33c0fe90f8" width="400" alt="Quality Assurance Illustration">
-   <br>
-   <em><strong>🔎 My goal is not just to find a bug, but to ensure a high-quality product for the end user. 🔍</strong></em>
-</p>
