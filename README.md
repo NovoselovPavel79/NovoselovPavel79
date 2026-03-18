@@ -2,11 +2,11 @@
 
 ![картинка](https://github.com/user-attachments/assets/374b7fc0-0a97-4fba-9ad6-349320592f59)  
 <p align="center">
-  <a href="#about-me"><kbd>👇About me</kbd></a> 
-  <a href="#courses-training"><kbd>👇Courses, training</kbd></a> 
-  <a href="#tools-and-technologies"><kbd>👇Tools and Technologies</kbd></a>   
+  <a href="#about"><kbd>👇About me</kbd></a> 
+  <a href="#courses"><kbd>👇Courses, training</kbd></a> 
+  <a href="#tools"><kbd>👇Tools and Technologies</kbd></a>   
   <a href="#projects"><kbd>👇Projects</kbd></a>
-  <a href="#how-to-contact-me"><kbd>👇How to contact me</kbd>
+  <a href="#contact"><kbd>👇How to contact me</kbd>
 </a>
 </p>
 
