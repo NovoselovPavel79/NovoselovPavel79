@@ -103,7 +103,5 @@ Testing the Yandex.Samokat training service API (courier creation, login, order 
 ---
 <a name="contact"></a>
 ## 📫 How to contact me  
-*   **Telegram:** @Palych1979mgn
-*   **VKontakte:** [Pavel Informatika](https://vk.com/pavel_informatika)
 *   **Email:** [pavel_informatik@vk.com](pavel_informatik@vk.com)
 ---
