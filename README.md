@@ -28,7 +28,7 @@ I specialize in quality assurance **Web, Mobile и API**. My approach combines a
 ---
 <a name="courses"></a>
 ## 🎓 Courses, training
-* [Yandex Practicum](https://practicum.yandex.ru/) qa-engineer-full-stack
+* [Yandex Practicum](https://practicum.yandex.ru/qa-engineer-full-stack/?from=profile_overview) qa-engineer-full-stack
 * Manual testing 
 * Automated testing in Java
 * [**Certificates**](https://drive.google.com/drive/folders/1JAylXCi1cXzg8dDsxxV1LlXGHI2iGaa7?usp=sharing)
@@ -49,7 +49,7 @@ I specialize in quality assurance **Web, Mobile и API**. My approach combines a
 #### ☕ Test Automation (Java)
 * **☕ Java** — the main programming language for writing automated tests.
 * **🏗️ Maven** — a build automation tool and dependency management system.
-* **🧪 JUnit 5** — a powerful framework for writing and running test cases.
+* **🧪 JUnit 4** — a powerful framework for writing and running test cases.
 * **🌐 Selenium / Selenide** — tools for browser automation and UI testing.
 * **🚀 REST Assured** — a Java library for testing and validating REST services.
 * **📊 Allure Report** — a flexible tool for creating detailed test reports.
