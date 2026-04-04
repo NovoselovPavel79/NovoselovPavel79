@@ -89,11 +89,11 @@ A web service that allows you to rent an electric scooter for several days.
 #### ✅ Test Automation (Java)  
 * [**Autotests for the Yandex Samokat service**](https://qa-scooter.praktikum-services.ru/)
   Сервис по бронированию электросамокатов: автоматизированные UI‑тесты для проверки критического пути пользователя.
-    * [**Sprint_4**](https://github.com/NovoselovPavel79/Sprint_4)
+    * [**automated-tests-ui**](https://github.com/NovoselovPavel79/automated-tests-ui)
 * [**Yandex.Samokat(API Automation)**](https://qa-scooter.praktikum-services.ru/)  
 Testing the Yandex.Samokat training service API (courier creation, login, order management).
   * [documentation](https://qa-scooter.praktikum-services.ru/docs/)
-  * [**Sprint_7**](https://github.com/NovoselovPavel79/Sprint_7)
+  * [**automated-tests-api**](https://github.com/NovoselovPavel79/automated-tests-api)
 * **Unit tests**
   * [**Diplom_1**](https://github.com/NovoselovPavel79/Diplom_1)
 * [**Automated tests for API Stellar Burgers web app**](https://stellarburgers.education-services.ru/)
